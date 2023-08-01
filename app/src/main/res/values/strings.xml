@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Training Manager</string>
+    <string name="exercises">%s exercises</string>
+    <string name="missed">Missed</string>
+    <string name="completed">Completed</string>
+    <string name="assigned">Assigned</string>
+    <string name="greyed_out">Greyed Out</string>
+    <string name="tx_default">Default</string>
+</resources>
